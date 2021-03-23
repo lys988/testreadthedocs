@@ -6,9 +6,13 @@
 Bienvenue sur le wiki-metis
 ===========================
 
+
+Contents:
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 
+   *
 
 
 
